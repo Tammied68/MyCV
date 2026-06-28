@@ -36,3 +36,12 @@ AI‑powered productivity
 Creative digital design
 
 Building streamlined systems that help people work smarter
+
+✔️ Why this will work
+Each section header is followed by a blank line
+
+Each bullet starts with - and a space
+
+No extra indentation
+
+No hidden formatting
