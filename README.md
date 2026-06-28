@@ -1,5 +1,4 @@
-# MyCV
-
+MyCV
 About Me
 I am an AI‑driven operations professional with hands‑on experience in Python, machine learning fundamentals, and workflow automation. I’m passionate about using technology to streamline processes, improve team efficiency, and solve real‑world organizational challenges.
 
@@ -36,12 +35,3 @@ AI‑powered productivity
 Creative digital design
 
 Building streamlined systems that help people work smarter
-
-✔️ Why this will work
-Each section header is followed by a blank line
-
-Each bullet starts with - and a space
-
-No extra indentation
-
-No hidden formatting
